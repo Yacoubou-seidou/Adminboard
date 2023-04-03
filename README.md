@@ -26,7 +26,7 @@ Open the index.html file in your web browser to view the website
 If you would like to contribute to the Admin Board website, please feel free to fork the repository and make any changes you like using HTML, CSS, and the Materialize framework.
 
 ## License
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 ## Acknowledgments
 Materialize - The CSS framework used
